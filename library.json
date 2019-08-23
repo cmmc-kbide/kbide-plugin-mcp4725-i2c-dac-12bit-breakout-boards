@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-mcp4725-i2c-dac-12bit-breakout-boards",
+  "title": "mcp4725-i2c-dac-12bit-breakout-boards",
+  "keywords": "mcp4725-i2c-dac-12bit-breakout-boards, esp32, esp8266, arduino",
+  "description": "mcp4725-i2c-dac-12bit-breakout-boards plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-mcp4725-i2c-dac-12bit-breakout-boards/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-mcp4725-i2c-dac-12bit-breakout-boards/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
